@@ -1,0 +1,2 @@
+# ReactBasicSearchAfterInterval
+Created with CodeSandbox
